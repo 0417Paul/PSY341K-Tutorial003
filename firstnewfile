@@ -2,9 +2,9 @@ print("Hello World")
 print("This is Paul.")
 
 
-** This is the Header **
+**This is the Header**
 
-~~ Strick through this line ~~
+~~Strick through this line~~
 
 | This | is | a | table | header |
 | --- | --- | --- | --- | --- |
